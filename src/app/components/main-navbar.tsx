@@ -7,7 +7,7 @@ import { usePathname } from "next/navigation";
 import { Container } from "./Container";
 import { IoGiftOutline, IoLogoFacebook } from "react-icons/io5";
 import Image from "next/image";
-import { GiCoffeeCup, GiMailbox } from "react-icons/gi";
+import { GiCoffeeCup,} from "react-icons/gi";
 import { TiShoppingCart } from "react-icons/ti";
 
 import {
